@@ -20,8 +20,37 @@
               "icon": "lucide-file",
               "title": "readme"
             }
+          },
+          {
+            "id": "3ad5d4d91358b8d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "initial thoughts + map.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "initial thoughts + map"
+            }
+          },
+          {
+            "id": "d3b97e813ef0e9fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "word-filter/Filter search.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Filter search"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "readme.md",
+                "file": "word-filter/Filter search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for readme"
+              "title": "Backlinks for Filter search"
             }
           },
           {
@@ -113,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "readme.md",
+                "file": "word-filter/Filter search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from readme"
+              "title": "Outgoing links from Filter search"
             }
           },
           {
@@ -142,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "readme.md",
+                "file": "word-filter/Filter search.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of readme"
+              "title": "Outline of Filter search"
             }
           }
         ]
@@ -170,6 +199,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d5ee22694657a1eb",
-  "lastOpenFiles": []
+  "active": "d3b97e813ef0e9fb",
+  "lastOpenFiles": [
+    "initial thoughts + map.md",
+    "word-filter/Filter search.md",
+    "readme.md",
+    "word-filter"
+  ]
 }
