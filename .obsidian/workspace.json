@@ -39,34 +39,42 @@
             "id": "d3b97e813ef0e9fb",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "WORK-MAP.canvas",
-                "viewState": {
-                  "x": -639.1699999999997,
-                  "y": -31.900000000000063,
-                  "zoom": 0
-                }
+                "file": "LOCALITY/quad-word-filter/quad filter.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "WORK-MAP"
+              "icon": "lucide-file",
+              "title": "quad filter"
+            }
+          },
+          {
+            "id": "906a07397c43ed82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LOCALITY/quad-word-filter/quad filter.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "quad filter"
             }
           },
           {
             "id": "976e5648ba1858df",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "WORK-MAP.canvas",
-                "viewState": {
-                  "x": -780.0822567114105,
-                  "y": -0.46350671140940847,
-                  "zoom": -0.5163875034493736
-                }
+                "file": "LOCALITY/triple-word-filter/adding triple word filter into scoring function.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "WORK-MAP"
+              "icon": "lucide-file",
+              "title": "adding triple word filter into scoring function"
             }
           },
           {
@@ -112,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -261,15 +269,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "976e5648ba1858df",
+  "active": "d3b97e813ef0e9fb",
   "lastOpenFiles": [
-    "LOCALITY/triple-word-filter/adding triple word filter into scoring function.md",
     "WORK-MAP.canvas",
-    "LOCALITY/triple-word-filter",
+    "LOCALITY/quad-word-filter/quad filter.md",
+    "LOCALITY/quad-word-filter",
+    "LOCALITY/triple-word-filter/adding triple word filter into scoring function.md",
     "LOCALITY/single-word-filter/Filter search.md",
+    "LOCALITY/double word filter/Whats next?.md",
+    "LOCALITY/triple-word-filter",
     "LOCALITY/Locality-explanation..md",
     "LOCALITY",
-    "LOCALITY/double word filter/Whats next?.md",
     "initial thoughts + map.md",
     "word separation into noun-verb-adjective.md",
     "LOCALITY/double word filter",

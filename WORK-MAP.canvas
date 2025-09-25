@@ -2,15 +2,15 @@
 	"nodes":[
 		{"id":"6835b877ebc4f5e8","type":"text","text":"LEGEND:\nRed - tried, didnt work.\nGreen - tried, did work.\nblue - not tried yet.\nyellow - WIP","x":140,"y":-270,"width":250,"height":120},
 		{"id":"d60a625f234102ee","type":"text","text":"Recognize English sentences","x":-140,"y":-250,"width":200,"height":80,"color":"3"},
-		{"id":"cb20901ec406caa1","type":"text","text":"single word filter","x":-520,"y":-340,"width":250,"height":60,"color":"4"},
-		{"id":"128cebe034d65e5c","type":"text","text":"Can improve the current filter?","x":-520,"y":-480,"width":250,"height":100,"color":"1"},
 		{"id":"6c4eafcaae9861e4","type":"text","text":"word classification","x":-518,"y":-82,"width":250,"height":60,"color":"5"},
 		{"id":"7e5222c491d3c1b2","type":"text","text":"LOCALITY","x":-500,"y":-211,"width":250,"height":60,"color":"3"},
-		{"id":"645e8efa935ad2e9","type":"text","text":"triple word filter","x":-1160,"y":-22,"width":250,"height":60,"color":"3"},
-		{"id":"896342018965be68","x":-1160,"y":120,"width":250,"height":60,"color":"5","type":"text","text":"quadriple word filter"},
 		{"id":"2ea343221545c805","type":"text","text":"back+forward checking","x":-1410,"y":-151,"width":250,"height":60,"color":"4"},
 		{"id":"795a71bc45dd6f85","type":"text","text":"double word filter","x":-1160,"y":-250,"width":250,"height":60,"color":"4"},
-		{"id":"477fbe0f8df25499","type":"text","text":"parameter fine tuning","x":-1410,"y":-370,"width":250,"height":60,"color":"4"}
+		{"id":"477fbe0f8df25499","type":"text","text":"parameter fine tuning","x":-1410,"y":-370,"width":250,"height":60,"color":"4"},
+		{"id":"cb20901ec406caa1","type":"text","text":"single word filter","x":-500,"y":-340,"width":250,"height":60,"color":"4"},
+		{"id":"128cebe034d65e5c","type":"text","text":"Can improve the current filter?","x":-500,"y":-540,"width":250,"height":100,"color":"1"},
+		{"id":"896342018965be68","type":"text","text":"quadriple word filter","x":-1160,"y":180,"width":250,"height":60,"color":"1"},
+		{"id":"645e8efa935ad2e9","type":"text","text":"triple word filter","x":-1160,"y":20,"width":250,"height":60,"color":"4"}
 	],
 	"edges":[
 		{"id":"711616d892f745af","fromNode":"7e5222c491d3c1b2","fromSide":"top","toNode":"cb20901ec406caa1","toSide":"bottom"},

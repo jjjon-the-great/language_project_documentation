@@ -59,3 +59,5 @@ scaledown time: 7500 tokens.
 
 0.21 with 7500 will from now on be the accepted value.
 for lesser false negative values, amount of tokens needs to be raised to 10,000.
+
+worked... insanely well.
