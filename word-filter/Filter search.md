@@ -17,4 +17,6 @@ task 1.3: downloaded a bunch of english words. trying to analyse using them as d
 
 in order to simulate aproaching the database with unknown 
 RESULTS OF WORD CUTOFF EXPERIMENT:
-percentage
+best cutoff at 40 percent and larger - remove.
+
+we get rid of approximately 55 percent of False sentences, and 0.2 percent of true sentences as false negatives.
