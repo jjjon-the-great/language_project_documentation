@@ -1,0 +1,1 @@
+the general idea that sometimes when a sentence is incorrect it mayu be infered from looking at a local part of the sentence -  a single words or a sequence of words that may indicate the sentence incorrectness.

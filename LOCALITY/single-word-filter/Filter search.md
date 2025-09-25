@@ -20,3 +20,5 @@ RESULTS OF WORD CUTOFF EXPERIMENT:
 best cutoff at 40 percent and larger - remove.
 
 we get rid of approximately 55 percent of False sentences, and 0.2 percent of true sentences as false negatives.
+
+GREAT SUCCESS
